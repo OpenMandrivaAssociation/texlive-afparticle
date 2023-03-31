@@ -1,6 +1,6 @@
 Name:		texlive-afparticle
 Version:	35900
-Release:	1
+Release:	2
 Summary:	Typesetting articles for Archives of Forensic Psychology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/afparticle
