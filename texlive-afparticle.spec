@@ -3,7 +3,7 @@ Version:	35900
 Release:	2
 Summary:	Typesetting articles for Archives of Forensic Psychology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/afparticle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/afparticle
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/afparticle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/afparticle.doc.r%{version}.tar.xz
